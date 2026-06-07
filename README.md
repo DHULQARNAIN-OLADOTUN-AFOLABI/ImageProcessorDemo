@@ -1,7 +1,10 @@
 # ImageProcessorDemo
 an image processor to demonstrate openmp
 
-# Compile
+# To Run
+Download Only ImageProcessing.exe and run.
+
+# to Compile
 Note: stb_image.h, stb_image_write.h must be present in the folder, if you didnt clone the entire repo
 To compile you need gcc, preferably you should use msys2 (as it supports openmp natively) others gave issues.
 # Steps for msys2
